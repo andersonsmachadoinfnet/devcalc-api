@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-//@RequiredArgsConstructor
 public class CalculatorController {
     @Autowired
     private final CalculatorService calculatorService;
