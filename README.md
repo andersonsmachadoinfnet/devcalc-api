@@ -34,4 +34,4 @@ Quando a API está operacional, o resultado esperado pode ser feito em qualquer B
 
 ## Instalação
 
-A instalção da API, bem como a compilação e execução será descritas nas próximas Branch.
+A instalação da API, bem como a compilação e execução será descritas nas próximas Branch. Para fazer build instale o Java e execute o mvn clean install.
